@@ -10,7 +10,7 @@ O **Dashboard de Análise de Vendas Global** é uma poderosa ferramenta desenvol
 - **Pergunta 4:** Qual foi a média de desconto nas vendas por subcategoria de produto?
 - **Pergunta 5:** Quais países tiveram maior média de valor de venda? Demonstre em um mapa.
 
-## Principais Recursos:
+## Principais recursos:
 
 - **Visualizações interativas:** O dashboard apresenta uma variedade de visualizações interativas, como gráficos dinâmicos e tabelas detalhadas, que permitem aos usuários explorar os dados de vendas de diferentes perspectivas e níveis de detalhe.
 
@@ -18,6 +18,6 @@ O **Dashboard de Análise de Vendas Global** é uma poderosa ferramenta desenvol
 
 - **Filtros e segmentações flexíveis:** Os usuários têm a capacidade de filtrar os dados por ano, segmento e país, permitindo uma análise personalizada e detalhada de acordo com suas necessidades específicas.
 
-- **Análise Geoespacial:** O dashboard inclui recursos de análise geoespacial, apresentando visualizações de mapas que destacam as vendas por país e região, facilitando a identificação de oportunidades de mercado e áreas de foco estratégico.
+- **Análise geoespacial:** O dashboard inclui recursos de análise geoespacial, apresentando visualizações de mapas que destacam as vendas por país e região, facilitando a identificação de oportunidades de mercado e áreas de foco estratégico.
 
 ![projeto1](https://github.com/manuggetts/PBI_Lab1/assets/141872152/1aa96fa5-6d41-4a4f-9715-4e5db7eb2062)
