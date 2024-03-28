@@ -29,11 +29,11 @@ Segue exemplo de cada país sendo representado por uma bolinha azul, onde o tama
 
 ![Análise geoespacial](https://github.com/manuggetts/PBI_Lab1/assets/141872152/fc072a96-790e-4566-8e4b-caae17294621)
 
-## Fonte de Dados
+## Fonte de dados
 
 Os dados utilizados neste projeto são fictícios e foram fornecidos pela Data Science Academy.
 
-## Instruções de Uso
+## Instruções de uso
 
 Para visualizar a dashboard:
 
