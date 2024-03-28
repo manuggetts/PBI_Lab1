@@ -28,3 +28,16 @@ Segue exemplo de filtro flexível, demonstramos como os usuários podem utilizar
 Segue exemplo de cada país sendo representado por uma bolinha azul, onde o tamanho e/ou a intensidade da cor indicam a média de vendas naquele país. Isso permite uma rápida visualização das variações de desempenho de vendas entre os diferentes países.
 
 ![Análise geoespacial](https://github.com/manuggetts/PBI_Lab1/assets/141872152/fc072a96-790e-4566-8e4b-caae17294621)
+
+## Fonte de Dados
+
+Os dados utilizados neste projeto são fictícios e foram fornecidos pela Data Science Academy.
+
+## Instruções de Uso
+
+Para visualizar a dashboard:
+
+1. Faça o download do arquivo Lab1.pbix.
+2. Abra o Power BI Desktop.
+3. No Power BI Desktop, abra o arquivo Lab1.pbix.
+4. Explore as visualizações interativas para responder às perguntas de negócios.
