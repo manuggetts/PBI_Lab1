@@ -10,7 +10,7 @@ O **Dashboard de Análise de Vendas Global** é uma poderosa ferramenta desenvol
 - **Pergunta 4:** Qual foi a média de desconto nas vendas por subcategoria de produto?
 - **Pergunta 5:** Quais países tiveram maior média de valor de venda? Demonstre em um mapa.
 
-![projetopadrao](https://github.com/manuggetts/PBI_Lab1/assets/141872152/5c986f24-2afb-46b9-bf6e-1eab6870a4f1)
+![projetopadrao](https://github.com/manuggetts/PBI_Lab1/assets/141872152/f7870a54-881e-456a-9617-74c60de0419b)
 
 ## Principais recursos:
 
