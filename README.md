@@ -38,7 +38,7 @@ Para visualizar a dashboard:
 3. No Power BI Desktop, abra o arquivo Lab1.pbix.
 4. Explore as visualizações interativas para responder às perguntas de negócios.
 
-# Contribuindo
+## Contribuindo
 
 Contribuições são bem-vindas! Se você encontrar algum problema nos dados ou tiver sugestões para melhorar as análises ou a visualização dos resultados, fique à vontade para abrir uma [issue](https://github.com/manuggetts/PBI_Lab1/issues) ou enviar um [pull request](https://github.com/manuggetts/PBI_Lab1/pulls). 
 
