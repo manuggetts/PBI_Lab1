@@ -29,7 +29,7 @@ Segue exemplo de cada país sendo representado por uma bolinha azul, onde o tama
 
 ![Análise geoespacial](https://github.com/manuggetts/PBI_Lab1/assets/141872152/f1225f08-b2d2-4b6d-b4b8-607f4c418960)
 
-## Layout no Figma
+## Layout no Figma 🎨
 
 O layout e a interface visual deste projeto foram desenvolvidos no Figma, garantindo uma apresentação visualmente atraente e coerente.
 O SVG deste layout está disponível nos arquivos deste repositório, dentro da pasta SVG.
