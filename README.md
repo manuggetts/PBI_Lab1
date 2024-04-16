@@ -1,4 +1,4 @@
-# Dashboard de Análise de Vendas Global
+# 📊 Dashboard de Análise de Vendas Global
 
 O **Dashboard de Análise de Vendas Global** é uma ferramenta desenvolvida no Power BI para fornecer insights valiosos sobre as operações de vendas de uma empresa fictícia que atua globalmente na comercialização de produtos. Projetado para gestores, analistas e tomadores de decisão, este dashboard oferece uma visão abrangente e intuitiva do desempenho das vendas, capacitando os usuários a identificar tendências, responder a perguntas críticas de negócios e tomar decisões informadas.
 
